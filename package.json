@@ -1,8 +1,8 @@
 {
-  "homepage": "https://JordanSteeleGIT.github.io/React-Weatherapp/",
   "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jordansteelegit.github.io/React-WeatherApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
